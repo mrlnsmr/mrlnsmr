@@ -27,8 +27,9 @@
 
 <div>
 <a href="https://www.instagram.com/mrln_smr/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      <img src="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/56c13d28-4efd-4a4b-8b4b-bde90948e179" />
     </a>
 </div>
+
 
 
