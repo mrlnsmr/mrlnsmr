@@ -27,9 +27,8 @@
 
 <div>
 <a href="https://www.instagram.com/mrln_smr/">
-      <img src="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/56c13d28-4efd-4a4b-8b4b-bde90948e179" alt="Instagram" />
+      <img src="https://th.bing.com/th/id/OIP.tiAv_-lsGi0k1Q_7XwyZtQHaHa?pid=ImgDet&rs=1" alt="Instagram" />
     </a>
 </div>
 
-
-
+https://th.bing.com/th/id/OIP.tiAv_-lsGi0k1Q_7XwyZtQHaHa?pid=ImgDet&rs=1
