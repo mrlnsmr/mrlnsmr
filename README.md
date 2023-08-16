@@ -27,8 +27,7 @@
 
 <div>
 <a href="https://www.instagram.com/mrln_smr/">
-      <img src="https://th.bing.com/th/id/OIP.tiAv_-lsGi0k1Q_7XwyZtQHaHa?pid=ImgDet&rs=1" alt="Instagram" />
+      <img width="200px" src="https://logos-world.net/wp-content/uploads/2020/04/Instagram-icon-Logo-2016-present.png" alt="Instagram" />
     </a>
 </div>
 
-https://th.bing.com/th/id/OIP.tiAv_-lsGi0k1Q_7XwyZtQHaHa?pid=ImgDet&rs=1
