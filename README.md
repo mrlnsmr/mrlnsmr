@@ -1,6 +1,6 @@
 <div align="center">
 <p >Hello There! </p> 
- <img width="3024 x 4032px" src="[https://www.pexels.com/de-de/foto/neon-signage-2681319/](https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg)" />
+ <img width="600px" src="https://www.pexels.com/de-de/foto/neon-signage-2681319/](https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg" />
  <a href="https://git.io/typing-svg"><img height= 100 src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=31&pause=1000&color=8257F7FF&center=true&width=900&height=50&lines=Hi!+I'm+Marlen++;and+I'm+here+to+learn+programming" alt="Typing SVG" /></a>
  </div>
 
