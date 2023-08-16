@@ -3,10 +3,10 @@
 </div>
 
 <div float="left"; align="center" >
-<img width="350px" src="https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg" alt="Think Different" />
+<img width="400px" src="https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg" alt="Think Different" />
 
 
-<img width="350px" src="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/4943bba4-12e0-4304-82ab-538d30095677" alt="Gaming" />
+<img width="400px" src="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/4943bba4-12e0-4304-82ab-538d30095677" alt="Gaming" />
 </div>
 
 <div align="center">
