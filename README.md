@@ -25,13 +25,11 @@
 
 ## Social Media
 
-<div>
+<div float="left" >
  <a href="https://www.instagram.com/mrln_smr/">
   <img src="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/656802b1-63f7-4410-85be-edae9a4bdccb" alt="Instagram Badge" />
  </a>
-</div>
 
-<div>
  <a href="https://t.snapchat.com/1KvwUgLh">
   <img scr="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/fd70d352-1d63-45ca-ace5-65b52935df6a" alt="Snapchat Badge" />
  </a>
