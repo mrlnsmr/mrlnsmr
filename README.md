@@ -3,9 +3,9 @@
 </div>
 
 <div float="left"; align="center"; >
-<img width="500px" src="https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg" alt="LinkedIn Badge" />
+<img width="500px" src="https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg" alt="Think Different" />
 
-<img width="500px" src="https://images.pexels.com/photos/7862515/pexels-photo-7862515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="LinkedIn Badge" />
+<img width="500px" src="https://images.pexels.com/photos/7862515/pexels-photo-7862515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Gaming" />
 </div>
 
 <div align="center">
@@ -26,7 +26,13 @@
 
 <div>
  <a href="https://www.instagram.com/mrln_smr/">
-  <img src="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/656802b1-63f7-4410-85be-edae9a4bdccb" alt="LinkedIn Badge" />
+  <img src="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/656802b1-63f7-4410-85be-edae9a4bdccb" alt="Instagram Badge" />
+ </a>
+</div>
+
+<div>
+ <a href="https://t.snapchat.com/1KvwUgLh">
+  <img scr="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/29aaf8e9-57c9-489b-a383-6b65ee6610de" alt="Snapchat Badge" />
  </a>
 </div>
 
