@@ -20,7 +20,7 @@
  <li> 🏠 I live in Germany </li>
  <li> 🐴 I love animals (especially horses) </li>
  <li> 🎹 I play piano </li>
- <li> 🎮 I love gaming </li>
+ <li> 🎮 I like gaming </li>
 
 
 ## Social Media
