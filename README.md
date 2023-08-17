@@ -41,4 +41,5 @@
 
 ## Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mrlnsmr&show_icons=true&theme=dark#C7A4FF-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#C7A4FF-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mrlnsmr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mrlnsmr/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mrlnsmr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mrlnsmr/github-readme-stats#gh-light-mode-only)
