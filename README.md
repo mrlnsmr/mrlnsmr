@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/cf0d921a-0a5f-40b6-b642-675f2b040595" alt="Bongo Cat Code" />
+<img width="804px" src="https://github.com/mrlnsmr/mrlnsmr/assets/93281779/cf0d921a-0a5f-40b6-b642-675f2b040595" alt="Bongo Cat Code" />
 </div>
 
 <div align="center">
