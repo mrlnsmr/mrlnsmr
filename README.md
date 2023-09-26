@@ -24,6 +24,7 @@
  <li> 🐴 I love animals (especially horses) </li>
  <li> 🎹 I play piano </li>
  <li> 🎮 I like gaming </li>
+ <li> 💻 My main programming language is Python</li>
 
 
 ## Social Media
