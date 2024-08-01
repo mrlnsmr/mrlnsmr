@@ -19,7 +19,7 @@
  ## About me
  
  <li> 👱🏻‍♀️ Pronouns: she/her </li>
- <li> 💬 I speak German, English and a little bit of French </li>
+ <li> 💬 I speak German and English pretty good </li>
  <li> 🏠 I live in Germany </li>
  <li> 🐴 I love animals (especially horses) </li>
  <li> 🎹 I play piano </li>
